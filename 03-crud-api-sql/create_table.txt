@@ -1,0 +1,4 @@
+sqlite3 users.db
+create table users (id integer, name text, email text);
+insert into users values(1, 'sugayaa', 'root@sugayaa.com');
+
